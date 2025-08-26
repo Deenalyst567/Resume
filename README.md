@@ -78,8 +78,8 @@ Check out these few;
 ---
 
 ## 📫 Let's Connect
-- [LinkedIn](httpswww.linkedin.cominighoruepaul)
-- Send me an Email [Here](httpbit.ly4euDiea)
+- [LinkedIn](https://www.linkedin.com/in/tenufa-dorcas-471063260/))
+- Send me an Email [Here](dorcastenufa@gmail.com)
 
 - [MyLifeImpactors](httpsgithub.comXbox2020Diary-of-Works)  I also have a mentions Page, the best I have learned from are here (in no specific order of seniority or importance) ;
    
