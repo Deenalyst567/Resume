@@ -1,7 +1,7 @@
 # Resume
 
 
-# 👋 Hi, I'm SURNAME Firstname
+# 👋 Hi, I'm TENUFA Dorcas
 Before we get ahead of ourselves, we must remember Colaboration always outpaces competition!
 
 I am a recent graduate with some experience in Business Analytics and and transitioning into a ;
