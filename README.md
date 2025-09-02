@@ -11,9 +11,7 @@
   🌐 Aspiring <strong>Cybersecurity Professional</strong> | 🛡️ InfoSec Enthusiast | 📊 Threat Hunter | 🔒 Blue Team & Red Team Learner  
 </p>
 
-I am a recent graduate with some experience in Business Analytics and and transitioning into a ;
-Cybersecurity Specialist  OSINT Expert  Penetration Tester  
-I am Passionate about Ethical Hacking, VAPT, and Cyber Defense....and you can view my daily contributing as regards in these areas;
+><h4 align="center">Strategic and results-driven Cyber Security Analyst with a strong foundation in stakeholder engagement, data protection, and operational precision. Adept at translating complex challenges into actionable security outcomes, with a focus on proactive threat detection, incident response, and fostering a culture of cyber resilience. Known for clear communication under pressure, collaborative problem-solving, and a commitment to safeguarding digital assets across diverse environments. Passionate about leveraging emerging technologies and human-centered strategies to reinforce enterprise security and uphold global digital trust.</h3
 
 [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpslinkedin.cominyourprofile)
 [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpswww.linkedin.cominighoruepaul)
