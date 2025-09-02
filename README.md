@@ -2,7 +2,14 @@
 
 
 # 👋 Hi, I'm TENUFA Dorcas
-Before we get ahead of ourselves, we must remember Colaboration always outpaces competition!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="120" alt="Cybersecurity" />
+</p>
+
+<p align="center">
+  🌐 Aspiring <strong>Cybersecurity Professional</strong> | 🛡️ InfoSec Enthusiast | 📊 Threat Hunter | 🔒 Blue Team & Red Team Learner  
+</p>
 
 I am a recent graduate with some experience in Business Analytics and and transitioning into a ;
 Cybersecurity Specialist  OSINT Expert  Penetration Tester  
