@@ -11,15 +11,17 @@
   🌐 Aspiring <strong>Cybersecurity Professional</strong> | 🛡️ InfoSec Enthusiast | 📊 Threat Hunter | 🔒 Blue Team & Red Team Learner  
 </p>
 
-><h4 align="center">Strategic and results-driven Cyber Security Analyst with a strong foundation in stakeholder engagement, data protection, and operational precision. Adept at translating complex challenges into actionable security outcomes, with a focus on proactive threat detection, incident response, and fostering a culture of cyber resilience. Known for clear communication under pressure, collaborative problem-solving, and a commitment to safeguarding digital assets across diverse environments. Passionate about leveraging emerging technologies and human-centered strategies to reinforce enterprise security and uphold global digital trust.</h3
 
-[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpslinkedin.cominyourprofile)
-[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpswww.linkedin.cominighoruepaul)
-[![YouTube](httpsimg.shields.iobadgeYouTube-Subscribe-redstyle=flat&logo=youtube)](httpswww.youtube.com@JohnPaulIghorue)
-[![Projects](httpsimg.shields.iobadge📄-View_Projects-green)](httpsyourresumelink.com)
-- ![Static Badge](httpsimg.shields.iobadgeCreate_any_textBadge_you_like_today-Click_Here-red)
+---
+
+## 🧠 About Me
+
+I'm a passionate and self-driven cybersecurity enthusiast transitioning from Sales and Customer Relations into a full-time role in **Information Security**. My mission is to **protect digital systems**, **analyze threats**, and **secure infrastructure** in an ever-evolving threat landscape. Adept at translating complex challenges into actionable security outcomes, with a focus on proactive threat detection, incident response, and fostering a culture of cyber resilience. Known for clear communication under pressure, collaborative problem-solving, and a commitment to safeguarding digital assets across diverse environments. Passionate about leveraging emerging technologies and human-centered strategies to reinforce enterprise security and uphold global digital trust.
 
 
+I have completed foundational certifications and have hands-on experience in **penetration testing**, **SIEM analysis**, **network security**, and **incident response** through real-world labs and personal projects.
+
+> 🚀 Actively seeking opportunities in **SOC Analyst**, **Cyber Threat Intelligence**, **Incident Response**, **GRC**, or **Security Engineering** roles.
 
 
 ---  
