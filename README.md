@@ -16,10 +16,8 @@
 
 ## 🧠 About Me
 
-I'm a passionate and self-driven cybersecurity enthusiast transitioning from Sales and Customer Relations into a full-time role in **Information Security**. My mission is to **protect digital systems**, **analyze threats**, and **secure infrastructure** in an ever-evolving threat landscape. Adept at translating complex challenges into actionable security outcomes, with a focus on proactive threat detection, incident response, and fostering a culture of cyber resilience. Known for clear communication under pressure, collaborative problem-solving, and a commitment to safeguarding digital assets across diverse environments. Passionate about leveraging emerging technologies and human-centered strategies to reinforce enterprise security and uphold global digital trust.
+I'm a passionate and self-driven cybersecurity enthusiast transitioning from Sales and Customer Relations into a full-time role in **Information Security**. My mission is to **protect digital systems**, **analyze threats**, and **secure infrastructure** in an ever-evolving threat landscape. Adept at translating complex challenges into actionable security outcomes, with a focus on proactive threat detection, incident response, and fostering a culture of cyber resilience. I am known for clear communication under pressure, collaborative problem-solving, and a commitment to safeguarding digital assets across diverse environments. Passionate about leveraging emerging technologies and human-centered strategies to reinforce enterprise security and uphold global digital trust.
 
-
-I have completed foundational certifications and have hands-on experience in **penetration testing**, **SIEM analysis**, **network security**, and **incident response** through real-world labs and personal projects.
 
 > 🚀 Actively seeking opportunities in **SOC Analyst**, **Cyber Threat Intelligence**, **Incident Response**, **GRC**, or **Security Engineering** roles.
 
